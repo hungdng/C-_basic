@@ -1,0 +1,137 @@
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.TrangChu.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.exe.licenses
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.exe
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.pdb
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.exe
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.pdb
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.DangNhap.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.About.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttBanThan.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.doimatkhau.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.NoiQuyThuVien.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.QuyTrinhLamThe.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.QuyDinhMuonTra.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.HuongDanSuDung.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTheLoai.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhaXuatBan.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhanVien.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTacGia.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttDocGia.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhapSach.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkSach.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTuaSach.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTuSach.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttPhieuMuonSach.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkTacGia.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkNhaXuatBan.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkDocGia.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsTuaSach_LuotMuon.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsDocGia_LuotMuon.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_DocGia.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\RdlCompile.cache
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\RdlCompile.compiled
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.exe.config
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_TuaSach.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_NhaXuatBan.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_TacGia.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_NhanVien.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_PhieuNhapSach.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_MuonQuaHan.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttCuonSach.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsMuonChuaTra.resources
+E:\HỌC TẬP\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.exe.config
+E:\HỌC TẬP\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.exe
+E:\HỌC TẬP\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.pdb
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.exe.config
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.exe
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.pdb
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.csprojResolveAssemblyReference.cache
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.DangNhap.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.About.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.doimatkhau.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsDocGia_LuotMuon.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsMuonChuaTra.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsTuaSach_LuotMuon.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.HuongDanSuDung.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.NoiQuyThuVien.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.QuyDinhMuonTra.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.QuyTrinhLamThe.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkDocGia.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkNhaXuatBan.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkSach.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkTacGia.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttBanThan.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttCuonSach.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttDocGia.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhanVien.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhapSach.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhaXuatBan.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttPhieuMuonSach.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTacGia.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTheLoai.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTuaSach.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTuSach.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Properties.Resources.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_DocGia.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_MuonQuaHan.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_NhanVien.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_NhaXuatBan.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_PhieuNhapSach.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_TacGia.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_TuaSach.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.TrangChu.resources
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.csproj.GenerateResource.Cache
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.exe.licenses
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\RdlCompile.cache
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\RdlCompile.compiled
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.exe
+E:\download\QLTV_Heni_4\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.pdb
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.exe.config
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.exe
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.pdb
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.exe
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\bin\Debug\QLTV_Heni_4.pdb
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.DangNhap.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.About.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.doimatkhau.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsDocGia_LuotMuon.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsMuonChuaTra.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.dsTuaSach_LuotMuon.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.HuongDanSuDung.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.NoiQuyThuVien.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.QuyDinhMuonTra.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.QuyTrinhLamThe.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkDocGia.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkNhaXuatBan.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkSach.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.tkTacGia.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttBanThan.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttCuonSach.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttDocGia.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhanVien.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhapSach.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttNhaXuatBan.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttPhieuMuonSach.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTacGia.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTheLoai.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTuaSach.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.GUI.ttTuSach.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Properties.Resources.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_DocGia.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_MuonQuaHan.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_NhanVien.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_NhaXuatBan.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_PhieuNhapSach.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_TacGia.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.Report.Rp_TuaSach.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.TrangChu.resources
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\QLTV_Heni_4.exe.licenses
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\RdlCompile.cache
+C:\Users\Dell\Desktop\QLTV_Heni_4\QLTV_Heni_4\obj\x86\Debug\RdlCompile.compiled
